@@ -1,4 +1,4 @@
-package test.java.ru.job4j.condition;
+package ru.job4j.condition;
 
 import main.java.ru.job4j.condition.Triangle;
 import org.junit.Assert;
