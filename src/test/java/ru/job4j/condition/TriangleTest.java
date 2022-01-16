@@ -1,8 +1,9 @@
-package ru.job4j.condition;
+package test.java.ru.job4j.condition;
 
-import main.java.ru.job4j.condition.Triangle;
+
 import org.junit.Assert;
 import org.junit.Test;
+import ru.job4j.condition.Triangle;
 
 public class TriangleTest {
     @Test
