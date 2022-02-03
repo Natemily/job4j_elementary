@@ -4,8 +4,8 @@ public class Doctor extends Profession {
 
     private int experience;
 
-    public Doctor(String name, String surname, int experience) {
-        super(name, surname);
+    public Doctor(String name, String surname, String birthday, String education, int experience) {
+        super(name, surname, birthday, education);
         this.experience = experience;
     }
 
